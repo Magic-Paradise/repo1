@@ -1,3 +1,3 @@
 /bin
 .tmp
-/build/.log
+/build/*.log
